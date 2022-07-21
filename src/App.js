@@ -35,8 +35,8 @@ const App = () => {
     return (
         <div className={classes.wrapper}>
             <AppBar className={classes.appBar} position="static" color="inherit">
-                <Typography variant="h2" align="center">
-                    LIGHTNING CHAT
+                <Typography variant="h6" align="center">
+                    VIDEO CHAT
                 </Typography>
             </AppBar>
             <VideoPlayer />

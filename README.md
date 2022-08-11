@@ -4,7 +4,7 @@ Enter your name, share your ID with your friends and have it a go, video call yo
 <br>
 <br>        
 <a href="https://video-chat-bay.vercel.app">
-        <img alt="Thumbnail" src="./src/img/Video-Chat.com.jpg" />
+        <img alt="Thumbnail" src="./src/Video-Chat.com.jpg" />
     </a>
 <br>
 <a href="https://video-chat-bay.vercel.app">
